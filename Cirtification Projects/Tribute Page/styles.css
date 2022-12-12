@@ -1,0 +1,43 @@
+* {
+    font-family: "poppins", sans-serif;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+body {
+    background-color: white;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.main-div {
+    background-color: #eee;
+    border-radius: 5px;
+}
+
+#img-div {
+    background-color: white;
+    width: 98%;
+    margin: 0 auto;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+#tribute-info {
+    width: 40%;
+    text-align: start;
+    margin: 0 auto;
+    line-height: 2rem;
+    list-style-position: outside;
+}
+
+h3 {
+    text-align: center;
+}
